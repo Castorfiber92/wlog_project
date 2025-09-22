@@ -1,0 +1,18 @@
+--- Timestamp: 2025-09-19 11:04:39 ---
+Error processing code '6fQdTBJqnLmp72yK': 'set' object has no attribute 'append'
+Traceback (most recent call last):
+  File "C:\Users\karlt\AppData\Local\Temp\ipykernel_23540\2782707401.py", line 104, in main
+    old_codes.append(code)
+    ^^^^^^^^^^^^^^^^
+AttributeError: 'set' object has no attribute 'append'
+--------------------------------------------------
+
+--- Timestamp: 2025-09-19 11:07:13 ---
+Error processing code '6fQdTBJqnLmp72yK': 'set' object has no attribute 'append'
+Traceback (most recent call last):
+  File "C:\Users\karlt\AppData\Local\Temp\ipykernel_23540\2782707401.py", line 104, in main
+    old_codes.append(code)
+    ^^^^^^^^^^^^^^^^
+AttributeError: 'set' object has no attribute 'append'
+--------------------------------------------------
+
