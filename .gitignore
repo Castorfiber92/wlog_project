@@ -14,4 +14,5 @@ env/
 
 # Local data and secrets
 .env
-log_file.log
+error_log.txt
+run_warcraftlogs_weekly.bat
