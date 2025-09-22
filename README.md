@@ -8,9 +8,11 @@ This program connects to the warcraftlogs API to collect data. The data will be 
 The warcraftlogs API uses OAuth 2.0 for authentication. This means that you have to get yourself a token for authenticating.
 Follow the link here for the setup: https://www.warcraftlogs.com/api/docs
 The functions in the program will assume there is a .env file where it can find the client_ID, client_secret and WARCRAFTLOGS_TOKEN.
-```client_ID =
+```
+client_ID =
 client_secret = 
-WARCRAFTLOGS_TOKEN = ```
+WARCRAFTLOGS_TOKEN =
+````
 
 
 * Warcraftlogs uses Oauth 2.0 for authentication to it's API, if you want to access it you can follow the guide here: https://www.warcraftlogs.com/api/docs
