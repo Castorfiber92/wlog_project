@@ -9,10 +9,10 @@ The warcraftlogs API uses OAuth 2.0 for authentication. This means that you have
 Follow the link here for the setup: https://www.warcraftlogs.com/api/docs
 The functions in the program will assume there is a .env file where it can find the client_ID, client_secret and WARCRAFTLOGS_TOKEN.
 ```
-client_ID =
-client_secret = 
-WARCRAFTLOGS_TOKEN =
-````
+client_ID = EXAMPLE123 # <<-- you enter this (no brackets)
+client_secret = EXAMPLE456 # <<-- you enter this (no brackets)
+WARCRAFTLOGS_TOKEN =  # The program will enter a string in single quotation here ('example')
+```
 
 
 * Warcraftlogs uses Oauth 2.0 for authentication to it's API, if you want to access it you can follow the guide here: https://www.warcraftlogs.com/api/docs
